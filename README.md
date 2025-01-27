@@ -1,15 +1,15 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NomanGhayyur&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/NomanGhayyur)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArqumSiddiqui307&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ArqumSiddiqui307)
 
 <h3 align="center">A passionate MERN Stack developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanghayyur&label=Profile%20views&color=0e75b6&style=flat" alt="nomanghayyur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArqumSiddiqui307&label=Profile%20views&color=0e75b6&style=flat" alt="ArqumSiddiqui307" /> </p>
 
 
 
 
-<img align="right" alt="nomanghayyur" width="400" src="https://th.bing.com/th/id/OIG.wWg7Fyeb8zU.l7MsH3yM?pid=ImgGn">
+<img align="right" alt="ArqumSiddiqui307" width="400" src="https://th.bing.com/th/id/OIG.wWg7Fyeb8zU.l7MsH3yM?pid=ImgGn">
 - 🔭 I’m currently working on **Customer Relationship Management System**
 
 - 🌱 I’m currently learning **MERN Stack Development**
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **ReactJs, NextJs, UI libraries & Styled Components**
 
-- 📫 How to reach me **nomanghayyur96@gmail.com**
+- 📫 How to reach me **ArqumSiddiqui30796@gmail.com**
 
 
 <span align="center">
@@ -26,7 +26,7 @@
 
 
 <span align="center">
-<a href="https://www.linkedin.com/in/nomanghayyur/" target="_blank">
+<a href="https://www.linkedin.com/in/ArqumSiddiqui307/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://twitter.com/noman_ghayyur" target="_blank">
@@ -109,7 +109,7 @@
 
  </table>
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/NomanGhayyur.svg)](https://user-badge.committers.top/pakistan/NomanGhayyur)
+[![committers.top badge](https://user-badge.committers.top/pakistan/ArqumSiddiqui307.svg)](https://user-badge.committers.top/pakistan/ArqumSiddiqui307)
 
 <p align="left"> 
 
@@ -118,17 +118,17 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=nomanghayyur&column=6&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=ArqumSiddiqui307&column=6&theme=darkhub"/>
   </a>
  </p>
 </details>
 
-[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur&theme=github-compact)](https://github.com/nomanghayyur/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArqumSiddiqui307&theme=github-compact)](https://github.com/ArqumSiddiqui307/github-readme-activity-graph)
 
 <span align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomanghayyur&show_icons=true&locale=en&layout=compact" alt="nomanghayyur" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArqumSiddiqui307&show_icons=true&locale=en&layout=compact" alt="ArqumSiddiqui307" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomanghayyur&show_icons=true&locale=en" alt="nomanghayyur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArqumSiddiqui307&show_icons=true&locale=en" alt="ArqumSiddiqui307" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanghayyur&" alt="nomanghayyur" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArqumSiddiqui307&" alt="ArqumSiddiqui307" /></p>
 </span
